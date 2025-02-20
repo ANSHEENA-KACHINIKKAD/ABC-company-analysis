@@ -6,7 +6,7 @@ This project aims to provide ABC company with a comprehensive report detailing i
 
 ## Dataset
 The dataset used in this analysis consists of 458 rows and 9 columns, containing information about ABC company's employees.  The data includes details such as employee age, salary, team, position, and other relevant attributes.
-> The dataset is included in this repository as `employee_data.csv`.
+> The dataset is included in this repository as `myexcel.csv`.
 
 
 ## Methodology
