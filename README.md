@@ -21,13 +21,17 @@ The analysis was performed using Python with the Pandas, NumPy, Matplotlib, and 
 6. **Correlation Between Age and Salary:** The correlation between age and salary was analyzed and visualized using a scatter plot and a calculated correlation coefficient.
    
 
-## Results and Insights
-1."The 'Development' team has the largest number of employees, while the 'Testing' team has the smallest."
+##  Insights
 
-2."The most common position within the company is 'Software Engineer'."
+1.The most common position within the company is 'SG'.
 
-3."The predominant age group among employees is between 25 and 35 years old."
+2.The predominant age group among employees is 24.
 
-4."The 'Development' team and 'Senior Software Engineer' position combination has the highest salary expenditure."
+3.The Los Angeles Lakers appear to have a high expenditure, particularly in the SF and Miami Heat team in Power Forward (SPF) positions.Company lower salary expenditure particulary in Brooklyn Nets team's 
+  SF position and Sacramento kings team's PF position
+
+4.In the company status there exist a weak positive correlation between age and employee' salary, most of the employees are under 30 of age but older employees earnes more than the youngerones.
+
+5.The correlation coefficient is 0.25, indicating that the relationship is not very strong.
 
 5."There is a moderate positive correlation between age and salary, indicating that older employees tend to have higher salaries."
