@@ -23,7 +23,11 @@ The analysis was performed using Python with the Pandas, NumPy, Matplotlib, and 
 
 ## Results and Insights
 1."The 'Development' team has the largest number of employees, while the 'Testing' team has the smallest."
+
 2."The most common position within the company is 'Software Engineer'."
+
 3."The predominant age group among employees is between 25 and 35 years old."
+
 4."The 'Development' team and 'Senior Software Engineer' position combination has the highest salary expenditure."
+
 5."There is a moderate positive correlation between age and salary, indicating that older employees tend to have higher salaries."
